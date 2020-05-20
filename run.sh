@@ -1,1 +1,1 @@
-echo "build triger"
+echo "hello ji"  
